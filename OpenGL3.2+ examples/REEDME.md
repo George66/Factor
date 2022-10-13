@@ -3,6 +3,6 @@
 2. кладём эту папку в factor/work  
 3. запускаем factor.exe  
 4. вводим команды
-5.   
+   
     USE: rotation
     "rotation" run
