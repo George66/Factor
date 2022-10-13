@@ -4,5 +4,5 @@
 3. запускаем factor.exe  
 4. вводим команды
    
-    USE: rotation
+    USE: rotation  
     "rotation" run
