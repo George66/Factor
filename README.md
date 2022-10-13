@@ -5,4 +5,4 @@ https://factorcode.org/
 https://andreaferretti.github.io/factor-tutorial/  
 Некоторая теория  
 http://tunes.org/~iepos/joy.html  
-Читать файлы с кодом (расширение .factor) можно Notepad++, выбрав "Синтаксисы/Forth", но лучше скачать редактор Atom и поставить плагин для Factor.
+Читать файлы с кодом (расширение .factor) можно редактором Atom, поставив плагин для Factor.
