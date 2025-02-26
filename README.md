@@ -5,4 +5,3 @@ https://factorcode.org/
 https://andreaferretti.github.io/factor-tutorial/  
 Некоторая теория  
 http://tunes.org/~iepos/joy.html  
-Читать файлы с кодом (расширение .factor) можно редактором Atom, поставив плагин для Factor.

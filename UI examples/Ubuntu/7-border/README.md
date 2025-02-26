@@ -1,0 +1,1 @@
+Border prevents gadget resizing (try resizing the window).

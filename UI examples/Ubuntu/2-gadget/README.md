@@ -1,0 +1,1 @@
+Another pen (`<gradient>` instead of `<solid>`)
