@@ -1,1 +1,0 @@
-Added two new examples, rewrote the old ones a little. Loading cube textures under Linux causes problems.

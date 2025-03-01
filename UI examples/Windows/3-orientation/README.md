@@ -1,1 +1,0 @@
-Each gadget has orientation (vertical or horizontal, vertical by default).

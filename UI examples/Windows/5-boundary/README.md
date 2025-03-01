@@ -1,1 +1,0 @@
-A gadget may have boundary.

@@ -1,1 +1,0 @@
-Google "Order-Independent Transparency"

@@ -1,1 +1,0 @@
-A pile is a gadget which lays out its children vertically.

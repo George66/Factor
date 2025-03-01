@@ -1,1 +1,0 @@
-Try removing the border. Don't forget to resize the window.
